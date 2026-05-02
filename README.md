@@ -17,6 +17,10 @@ edugemma/
 
 ---
 
+<img width="1918" height="934" alt="image" src="https://github.com/user-attachments/assets/b1dc0282-3e98-4649-a544-627e5f1f01d5" />
+
+
+
 ## 🚀 Quick Start (Kaggle)
 
 ### Step 1 — Open on Kaggle
